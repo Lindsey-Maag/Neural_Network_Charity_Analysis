@@ -35,4 +35,4 @@ Use the features in the provided dataset to create a binary classifier that is c
     - My third attempts focused on changing activations in the second and third hidden from "relu" to "tanh" and also changing the optimizer from "adam" to "RMSprop".
 
 ## Summary
-(include a recomendation)
+The deep learning neural network was not able to reach an accuracy level of 75%. In additional attempts I would probably try to reduce additional noisy variables and due additional research on activation and optimizing options. Ultimately I would recommend using another machine learning model, like Random Forest Clasifier, to evaluate this dataset.
