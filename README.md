@@ -18,7 +18,13 @@ Use the features in the provided dataset to create a binary classifier that is c
   - Were you able to achieve the target model performance?
     - I was not able to acheive the target model. 
     - Original Model:
-    - !(ORIG)[https://github.com/Lindsey-Maag/Neural_Network_Charity_Analysis/blob/main/Images/accuracy.PNG]
+    - ![ORIG](https://github.com/Lindsey-Maag/Neural_Network_Charity_Analysis/blob/main/Images/accuracy.PNG)
+    - Optimization Attempt 1
+    - ![OPT1](https://github.com/Lindsey-Maag/Neural_Network_Charity_Analysis/blob/main/Images/accuracy_opt1.PNG)
+    - Optimization Attempt 3
+    - ![OPT2](https://github.com/Lindsey-Maag/Neural_Network_Charity_Analysis/blob/main/Images/accuracy_opt2.PNG)
+    - Optimization Attempt 
+    - ![OPT3](https://github.com/Lindsey-Maag/Neural_Network_Charity_Analysis/blob/main/Images/accuracy_opt3.PNG)
   - What steps did you take to try and increase model performance?
     - 
 
