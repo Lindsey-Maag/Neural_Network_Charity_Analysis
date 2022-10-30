@@ -16,7 +16,7 @@ Use the features in the provided dataset to create a binary classifier that is c
   - How many neurons, layers, and activation functions did you select for your neural network model, and why?
     -  
   - Were you able to achieve the target model performance?
-    - 
+    - I was not able to acheive the target model. 
   - What steps did you take to try and increase model performance?
     - 
 
